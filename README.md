@@ -1,7 +1,5 @@
 ##Codeigniter-Database-Class是什么？
-是由[超能小紫](http://www.mokeyjay.com)出品的数据库操作类
-
-（上面应有删除线）（谁能教我MD的删除线怎么打）（波浪号不管用）
+~~是由[超能小紫](https://www.mokeyjay.com)出品的数据库操作类~~
 
 其实只是小紫基于`CodeIgniter` 提取、修改而来的数据库操作类
 
