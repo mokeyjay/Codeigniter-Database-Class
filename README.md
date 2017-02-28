@@ -60,12 +60,8 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 博客：[超能小紫](https://www.mokeyjay.com)
-* 微博: [mokeyjay](http://weibo.com/mokeyjay)
-* 邮件(mokeyjay#126.com)
-
-##顺便一提
-
-[MaHua在线markdown编辑器](http://mahua.jser.me/) 挺好用的。实时显示效果，你现在所看到的md页面就是我在这上面写出来的
+* 微博：[mokeyjay](http://weibo.com/mokeyjay)
+* 邮箱：aUBtb2tleWpheS5jb20=
 
 ##结语
 
